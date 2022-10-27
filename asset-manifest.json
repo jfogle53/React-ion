@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-ion/static/css/main.0388b317.css",
+    "main.js": "/React-ion/static/js/main.19eead62.js",
+    "static/js/787.ebd5b6f6.chunk.js": "/React-ion/static/js/787.ebd5b6f6.chunk.js",
+    "static/media/Chicago skyline of myself.jpg": "/React-ion/static/media/Chicago skyline of myself.14a99a726e64d2bc9f9e.jpg",
+    "index.html": "/React-ion/index.html",
+    "main.0388b317.css.map": "/React-ion/static/css/main.0388b317.css.map",
+    "main.19eead62.js.map": "/React-ion/static/js/main.19eead62.js.map",
+    "787.ebd5b6f6.chunk.js.map": "/React-ion/static/js/787.ebd5b6f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0388b317.css",
+    "static/js/main.19eead62.js"
+  ]
+}
