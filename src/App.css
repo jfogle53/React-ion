@@ -11,9 +11,7 @@ body {
   background-color: aquamarine;
 }
 
-img {
-  height: 400px;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
